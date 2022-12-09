@@ -26,6 +26,18 @@ def poisto(pelaajan_laivat):
                 pelaajan_laivat[i][j] = 1
     return(pelaajan_laivat)
 
+
+def muunnin(laivat):
+    #funktio joka muuttaa 5 --> 4
+    #ja 7 --> 2
+    for i in range(10):
+        for j in range(10):
+            if laivat[i][j] == 5:
+                laivat[i][j] = 4
+            elif laivat[i][j] == 7:
+                laivat[i][j] = 2
+    return(laivat)
+
 def laivan_sijanti(pelaajan_laivat,piste_y,piste_x,sijainti_y,sijainti_x,vaaka,lista,laskuri):
     #asetetaan laiva kartalle
     if vaaka: #vaakaasento
