@@ -4,7 +4,7 @@ from aliohjelmat.tulostus import ruudukko
 from aliohjelmat.alku import alku
 from aliohjelmat.tulostus import tulostus
 from aliohjelmat.lista_tarkistus import lista_tarkistus
-from aliohjelmat.muunnin import muunnin
+
 
 '''
 toimiva
