@@ -12,7 +12,7 @@ from aliohjelmat.uponnut_tarkistus import uponnut_tarkistus
 from aliohjelmat.valinta import valinta
 from aliohjelmat.lista_tarkistus import lista_tarkistus
 from aliohjelmat.alku import alku
-from aliohjelmat.muunnin import muunnin
+
 
 
 
