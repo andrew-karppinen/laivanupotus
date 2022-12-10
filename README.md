@@ -1,5 +1,6 @@
-# laivanupotus python
+# laivanupotus 
 
+pythonilla tehty laivanupotus jossa pelataan tekoälyä vastaan
 
 Vaatii pygame kirjaston toimiakseen
 https://www.pygame.org/wiki/GettingStarted
