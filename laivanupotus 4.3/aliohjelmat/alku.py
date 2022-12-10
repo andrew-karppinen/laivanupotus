@@ -20,8 +20,6 @@ def alku():
     
     Laivat eivät voi olla vierekkäin mutta voivat olla kulmikkain 
     
-    Funktio tarvitsee toimiakseen lista_tarkistus funktion
-    joka on tässä samassa tiedostossa
     
     arvottavien laivojen pituutta ja määrää voi muuttaa manuaalisesti
     tutkitaan len käskyllä laivojen määrä eikä sitä kirjoiteta lähdekoodiin
