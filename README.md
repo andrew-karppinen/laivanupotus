@@ -1,4 +1,4 @@
-# laivanupotus
+# laivanupotus python
 
 
 Vaatii pygame kirjaston toimiakseen
